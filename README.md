@@ -49,7 +49,7 @@ The election commission has requested some additional data, rolled up to the cou
 
 ![image](https://user-images.githubusercontent.com/82008319/128617893-5a73dfdd-a073-4d46-b8e8-88f6b30e5076.png)
 
-We can certainly refactor our script and apply it to future elections to better understand voter turn-out. For example, we could incorporate additional data and parse it out by age, income, gender, or campaign issues by assigning any one of these elements a variable, establish a counter for that variable, and establish variable brackets to roll up the results to. 
+We can certainly refactor our script and apply it to future elections to better understand voter turn-out. For example, we could incorporate additional data and parse it out by age, income, gender, or campaign issues by assigning any one of these elements a variable and establish a counter for that variable to loop through to tabulate the totals for that variable. 
 
 For example of Campaign Issues:
  * Environment 
