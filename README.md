@@ -55,7 +55,7 @@ For example of Campaign Issues:
  * Environment 
    * environment = ""
    * environment_count = 0
- * Universal HealthCare
-   * universal_healthcare = ""
+ * Universal Health Coverage
+   * uhc = ""
    * uhc_count = 0
    
