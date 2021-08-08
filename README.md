@@ -13,7 +13,7 @@ A Colorado Board of Elections employee requested your help in completing an elec
 
 ## Resources
 
-Data Source: election_results.csv
+Data Source: election_results.csv\
 Software: Python 3.8.3, Visual Studio Code 1.46.0
 
 ## Summary
