@@ -51,3 +51,6 @@ The election commission has requested some additional data, rolled up to the cou
 
 We can certainly refactor our script and apply it to future elections to better understand voter turn-out. For example, we could incorporate additional data and parse it out by age, income, gender, or campaign issues by assigning any one of these elements a variable, establish a counter for that variable, and establish variable brackets to roll up the results to. 
 
+For example:
+campaign_issue = ""
+campaign_issue_count = 0
